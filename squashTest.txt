@@ -1,3 +1,14 @@
 base commit on main
 
+
 commit on main for conflict
+
+commit (1/4) will be squashed
+
+commit (2/4) will be squashed
+
+commit (3/4) will be squashed
+
+commit (4/4) will be squashed
+
+// resolve conflict
