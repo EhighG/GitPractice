@@ -1,3 +1,5 @@
 base commit on main
 
 commit (1/4) will be squashed
+
+commit (2/4) will be squashed
