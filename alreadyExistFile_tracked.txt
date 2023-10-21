@@ -1,2 +1,2 @@
 aaaaa
-수정사항
+commit -a test
