@@ -1,0 +1,3 @@
+commit (1/2) on mergeTest2 / (2/4) on Total
+
+commit (2/2) on mergeTest2 / (4/4) on Total
